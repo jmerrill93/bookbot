@@ -1,3 +1,5 @@
 # bookbot
 My first repository
-# Hopefully I'm successful with my coding journey
+# bookbot
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
